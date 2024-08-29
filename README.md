@@ -4,9 +4,9 @@
 
 ## Exercises
 
-409. [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/)
+[Longest Palindrome](https://leetcode.com/problems/longest-palindrome/)
 
-326. [Power of Three](https://leetcode.com/problems/power-of-three/)
+[Power of Three](https://leetcode.com/problems/power-of-three/)
 
-258. [Add Digits](https://leetcode.com/problems/add-digits/)
+[Add Digits](https://leetcode.com/problems/add-digits/)
 
