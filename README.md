@@ -4,9 +4,36 @@
 
 ## Exercises
 
-[Longest Palindrome](https://leetcode.com/problems/longest-palindrome/)
+- Add Digits
+- Can Make Arithmetic Progression
+- Can Place Flowers
+- Contains Duplicate II
+- Find the difference
+- Find the Index of the First Occurrence in a String
+- Fraction Addition and Subtraction
+- Greatest Common Divisor of Strings
+- Invalid Email Error
+- Is Subsequence
+- Island Perimeter
+- Kids With the Greatest Number of Candies
+- Length of Last Word
+- Longest Palindrome
+- Median of Two Sorted Arrays
+- Merge string alternaly
+- Monotonic Array
+- Move Zeroes
+- Plus One
+- Power of Three
+- Ransom Note
+- Repeated Substring Pattern
+- Reverse Vowels of a String
+- Roman to Integer
+- Single Number
+- Square
+- To Lower Case
+- Valid Anagram
+- Valid Parentheses
 
-[Power of Three](https://leetcode.com/problems/power-of-three/)
+## My Profile in LeetCode.com
 
-[Add Digits](https://leetcode.com/problems/add-digits/)
-
+- [My Profile - Julio Arana Jr.](https://leetcode.com/u/julioaranajr/)
