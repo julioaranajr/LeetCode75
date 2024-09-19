@@ -1,13 +1,15 @@
 # LeetCode75
 
-75 Essential &amp; Trending Problems Must-do problem list for interview prep Best for 1~3 month of prep time
+75+ Essential &amp; Trending Problems Must-do problem list for interview prep Best for 1~3 month of prep time
 
 ## Exercises
 
 - Add Digits
+- Binary Search
 - Can Make Arithmetic Progression
 - Can Place Flowers
 - Contains Duplicate II
+- Detect Capital
 - Find the difference
 - Find the Index of the First Occurrence in a String
 - Fraction Addition and Subtraction
@@ -27,6 +29,7 @@
 - Ransom Note
 - Repeated Substring Pattern
 - Reverse Vowels of a String
+- Robot Return to Origin
 - Roman to Integer
 - Single Number
 - Square
