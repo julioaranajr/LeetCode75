@@ -5,13 +5,17 @@
 ## Exercises
 
 - Add Digits
+- Available Captures for Rook
 - Binary Search
 - Can Make Arithmetic Progression
 - Can Place Flowers
 - Contains Duplicate II
 - Detect Capital
+- Fibonacci Number
+- Find Common Characters
 - Find the difference
 - Find the Index of the First Occurrence in a String
+- Find Words That Can Be Formed by Characters
 - Fraction Addition and Subtraction
 - Greatest Common Divisor of Strings
 - Invalid Email Error
@@ -21,12 +25,13 @@
 - Length of Last Word
 - Longest Palindrome
 - Median of Two Sorted Arrays
-- Merge string alternaly
+- Merge string alternately
 - Monotonic Array
 - Move Zeroes
 - Plus One
 - Power of Three
 - Ransom Note
+- Remove All Adjacent Duplicates in String
 - Repeated Substring Pattern
 - Reverse Vowels of a String
 - Robot Return to Origin
@@ -36,6 +41,7 @@
 - To Lower Case
 - Valid Anagram
 - Valid Parentheses
+- Verifying an Alien Dictionary
 
 ## My Profile in LeetCode.com
 
