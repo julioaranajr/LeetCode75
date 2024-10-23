@@ -10,6 +10,7 @@
 - Can Make Arithmetic Progression
 - Can Place Flowers
 - Contains Duplicate II
+- Complement of Base 10 Integer
 - Detect Capital
 - Fibonacci Number
 - Find Common Characters
@@ -37,7 +38,8 @@
 - Robot Return to Origin
 - Roman to Integer
 - Single Number
-- Square
+- Squares of a Sorted Array
+- Square of a Number
 - To Lower Case
 - Valid Anagram
 - Valid Parentheses
