@@ -1,5 +1,5 @@
 # LeetCode75
-
+![LeetCode75](https://socialify.git.ci/julioaranajr/LeetCode75/image?description=1&font=Rokkitt&forks=1&issues=1&language=1&name=1&owner=1&pattern=Solid&pulls=1&stargazers=1&theme=Dark)
 75+ Essential &amp; Trending Problems Must-do problem list for interview prep Best for 1~3 month of prep time
 
 ## Exercises
