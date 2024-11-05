@@ -3,6 +3,7 @@ Function that takes a list of integers where every integer appears twice except 
 The function returns the integer that appears only once.
 """
 
+
 def single_number(nums):
     """
     Function that takes a list of integers where every integer appears twice except for one.
@@ -19,10 +20,11 @@ def single_number(nums):
         result ^= num
     return result
 
+
 # Time complexity: O(n)
 # Space complexity: O(1)
 # n = length of nums
 
 # Example:
-print(single_number([2, 2, 1])) # 1
-print(single_number([4, 1, 2, 1, 2])) # 4
+print(single_number([2, 2, 1]))  # 1
+print(single_number([4, 1, 2, 1, 2]))  # 4

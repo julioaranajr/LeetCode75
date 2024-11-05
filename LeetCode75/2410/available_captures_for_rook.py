@@ -1,4 +1,7 @@
-def numRookCaptures(self, board: List[List[str]]) -> int:
+"""Method to find the number of pawns the rook can capture."""
+from typing import List
+
+def num_rook_captures(board: List[List[str]]) -> int:
     """A function to find the number of pawns the rook can capture.
 
     Args:

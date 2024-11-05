@@ -1,8 +1,9 @@
+"""Method to find the sum of lengths of all good strings in a list."""
 from typing import List
 from collections import Counter
 
 
-def countCharacters(words: List[str], chars: str) -> int:
+def count_characters(words: List[str], chars: str) -> int:
     """A function to find the sum of lengths of all good strings in a list.
 
     Args:

@@ -1,4 +1,8 @@
-def isAlienSorted(self, words: List[str], order: str) -> bool:
+"""Method to check if the words are sorted in lexicographical order."""
+from typing import List
+
+
+def is_alien_sorted(words: List[str], order: str) -> bool:
     """A function to check if the words are sorted in lexicographical order.
 
     Args:

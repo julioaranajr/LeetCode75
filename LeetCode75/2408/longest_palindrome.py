@@ -1,6 +1,8 @@
 """
 Function to calculate the length of the longest palindrome.
 """
+
+
 def longest_palindrome(s):
     """
     Function to calculate the length of the longest palindrome.
@@ -23,6 +25,7 @@ def longest_palindrome(s):
         length += 1
 
     return length
+
 
 # Test the function
 LETTERS = "aABbcCcccDdd"

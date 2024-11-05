@@ -24,12 +24,13 @@ def is_anagram(s: str, t: str) -> bool:
 
     return cnt_s == cnt_t
 
+
 # Time complexity: O(n)
 # Space complexity: O(1)
 # n = length of s and t
 
 # Example:
-print(is_anagram("anagram", "nagaram")) # True
-print(is_anagram("rat", "car")) # False
-print(is_anagram("listen", "silent")) # True
-print(is_anagram("arepera", "arepera")) # True
+print(is_anagram("anagram", "nagaram"))  # True
+print(is_anagram("rat", "car"))  # False
+print(is_anagram("listen", "silent"))  # True
+print(is_anagram("arepera", "arepera"))  # True

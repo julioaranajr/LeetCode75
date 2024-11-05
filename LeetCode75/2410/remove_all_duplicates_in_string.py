@@ -1,7 +1,7 @@
 """Remove All Adjacent Duplicates in String"""
 
 
-def removeDuplicates(s: str) -> str:
+def remove_duplicates(s: str) -> str:
     """Remove all adjacent duplicates in a string.
 
     Args:

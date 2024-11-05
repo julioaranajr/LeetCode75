@@ -1,4 +1,8 @@
-def detectCapitalUse(word: str) -> bool:
+"""Methods to detect capital in a word."""
+
+
+def detect_capital_use(word: str) -> bool:
+    """Method to detect capital in a word."""
     if word.isupper():
         return True
     if word.islower():
@@ -8,7 +12,7 @@ def detectCapitalUse(word: str) -> bool:
     return False
 
 
-class Solution:
-    def detectCapital(self, word: str) -> bool:
-        cnt = sum(c.isupper() for c in word)
-        return cnt == 0 or cnt == len(word) or (cnt == 1 and word[0].isupper())
+def detect_capital(word: str) -> bool:
+    """Method to detect capital in a word."""
+    cnt = sum(c.isupper() for c in word)
+    return cnt == 0 or cnt == len(word) or (cnt == 1 and word[0].isupper())

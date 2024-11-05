@@ -4,46 +4,61 @@
 
 ## Exercises
 
-- Add Digits
-- Available Captures for Rook
-- Binary Search
-- Can Make Arithmetic Progression
-- Can Place Flowers
-- Contains Duplicate II
-- Complement of Base 10 Integer
-- Detect Capital
-- Fibonacci Number
-- Find Common Characters
-- Find the difference
-- Find the Index of the First Occurrence in a String
-- Find Words That Can Be Formed by Characters
-- Fraction Addition and Subtraction
-- Greatest Common Divisor of Strings
-- Invalid Email Error
-- Is Subsequence
-- Island Perimeter
-- Kids With the Greatest Number of Candies
-- Length of Last Word
-- Longest Palindrome
-- Median of Two Sorted Arrays
-- Merge string alternately
-- Monotonic Array
-- Move Zeroes
-- Plus One
-- Power of Three
-- Ransom Note
-- Remove All Adjacent Duplicates in String
-- Repeated Substring Pattern
-- Reverse Vowels of a String
-- Robot Return to Origin
-- Roman to Integer
-- Single Number
-- Squares of a Sorted Array
-- Square of a Number
-- To Lower Case
-- Valid Anagram
-- Valid Parentheses
-- Verifying an Alien Dictionary
+## August 2024 [6]
+
+1. Add Digits
+2. Invalid Email Error
+3. Longest palindrome
+4. Power of Three
+5. Square of a Number
+6. Valid Parentheses
+
+## September 2024 [28]
+
+1. Binary Search
+2. Can Make Arithmetic Progression
+3. Can Place Flowers
+4. Contains Duplicate II
+5. Detect Capital
+6. Find the difference
+7. Find the Index of the First Occurrence in a String
+8. Fraction Addition and Subtraction
+9. Greatest Common Divisor of Strings
+10. Invalid Email Error
+11. Is Subsequence
+12. Island Perimeter
+13. Kids With the Greatest Number of Candies
+14. Length of Last Word
+15. Maximum Average Subarray I
+16. Median of Two Sorted Arrays
+17. Merge string alternately
+18. Monotonic Array
+19. Move Zeroes
+20. Plus One
+21. Ransom Note
+22. Repeated Substring Pattern
+23. Reverse Vowels of a String
+24. Robot Return to Origin
+25. Roman to Integer
+26. Single Number
+27. To Lower Case
+28. Valid Anagram
+
+## October 2024 [8]
+
+1. Available Captures for Rook
+2. Complement of Base 10 Integer
+3. Fibonacci Number
+4. Find Common Characters
+5. Find Words That Can Be Formed by Characters
+6. Remove All Adjacent Duplicates in String
+7. Squares of a Sorted Array
+8. Verifying an Alien Dictionary
+
+## November 2024 [in progress...]
+
+- Day of the Year
+- Rotate Image
 
 ## My Profile in LeetCode.com
 

@@ -13,7 +13,7 @@ def roman_to_int(s: str) -> int:
     Returns:
     - int - The integer representation of the Roman numeral
     """
-    d = {'I': 1, 'V': 5, 'X': 10, 'L': 50, 'C': 100, 'D': 500, 'M': 1000}
+    d = {"I": 1, "V": 5, "X": 10, "L": 50, "C": 100, "D": 500, "M": 1000}
     total = 0
     prev_value = 0
 
@@ -29,12 +29,13 @@ def roman_to_int(s: str) -> int:
 
     return total
 
+
 # Time complexity: O(n)
 # Space complexity: O(1)
 # n = length of s
 
 # Example:
-print(roman_to_int("MMXXIV")) # 2024
-print(roman_to_int("CCII")) # 202
-print(roman_to_int("XX")) # 20
-print(roman_to_int("IV")) # 4
+print(roman_to_int("MMXXIV"))  # 2024
+print(roman_to_int("CCII"))  # 202
+print(roman_to_int("XX"))  # 20
+print(roman_to_int("IV"))  # 4

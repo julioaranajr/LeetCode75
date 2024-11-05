@@ -5,6 +5,7 @@ Module Can Make Arithmetic Progression From Sequence
 from typing import List
 from itertools import tee
 
+
 def can_make_arithmetic_progression(arr: List[int]) -> bool:
     """
     Function to check if the given list can form an arithmetic progression
@@ -18,6 +19,7 @@ def can_make_arithmetic_progression(arr: List[int]) -> bool:
         return zip(a, b)
 
     return all(b - a == d for a, b in pairwise(arr))
+
 
 # Test the function
 TEST = [3, 5, 1]

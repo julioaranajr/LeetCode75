@@ -2,6 +2,7 @@
 Function to check if there are any duplicates in the list of numbers within k distance
 """
 
+
 def contains_nearby_duplicate(nums, k):
     """
     Function to check if there are any duplicates in the list of numbers within k distance
@@ -12,6 +13,7 @@ def contains_nearby_duplicate(nums, k):
             return True
         d[num] = i
     return False
+
 
 # Time complexity: O(n)
 # Space complexity: O(n)

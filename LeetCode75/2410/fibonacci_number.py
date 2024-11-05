@@ -1,3 +1,5 @@
+"""Method to find the nth Fibonacci number."""
+
 def fibonacci(n: int) -> int:
     """A function to find the nth Fibonacci number.
 

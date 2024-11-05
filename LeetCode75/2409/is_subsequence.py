@@ -2,6 +2,7 @@
 Function to check if a string is a subsequence of another string
 """
 
+
 def is_subsequence(s: str, t: str) -> bool:
     """
     Function to check if a string is a subsequence of another string
@@ -13,6 +14,7 @@ def is_subsequence(s: str, t: str) -> bool:
         j += 1
     return i == len(s)
 
+
 # Time complexity: O(n)
 # Space complexity: O(1)
 # n = len(t)
@@ -20,6 +22,6 @@ def is_subsequence(s: str, t: str) -> bool:
 # Test the function
 TEST_S = "abc"
 TEST_T = "ahbgdc"
-print(f'The 1st str is: {TEST_S}')
-print(f'The 2nd str is: {TEST_T}')
-print(f'Is 1st str a subsequence of the 2nd str? {is_subsequence(TEST_S, TEST_T)}')
+print(f"The 1st str is: {TEST_S}")
+print(f"The 2nd str is: {TEST_T}")
+print(f"Is 1st str a subsequence of the 2nd str? {is_subsequence(TEST_S, TEST_T)}")

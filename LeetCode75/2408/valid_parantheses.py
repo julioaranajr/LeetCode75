@@ -2,12 +2,13 @@
 Function to check if a string of parasyntheses is valid or not
 """
 
+
 def is_valid(s: str) -> bool:
     """
     Function to check if a string of parasyntheses is valid or not
     """
     stack = []
-    mapping = {')': '(', '}': '{', ']': '['}
+    mapping = {")": "(", "}": "{", "]": "["}
 
     for char in s:
         if char in mapping:
@@ -17,6 +18,7 @@ def is_valid(s: str) -> bool:
             stack.append(char)
 
     return not stack
+
 
 # Time complexity: O(n)
 # Space complexity: O(n)

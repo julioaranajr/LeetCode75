@@ -1,7 +1,9 @@
 """
 Function to check if a ransom note can be constructed from a magazine.
 """
+
 from collections import Counter
+
 
 def can_construct(ransom_note: str, magazine: str) -> bool:
     """
@@ -21,11 +23,12 @@ def can_construct(ransom_note: str, magazine: str) -> bool:
             return False
     return True
 
+
 # Time complexity: O(n)
 # Space complexity: O(1)
 # n = length of ransomNote
 
 # Example:
-print(can_construct("a", "b")) # False
-print(can_construct("aa", "ab")) # False
-print(can_construct("aa", "aab")) # True
+print(can_construct("a", "b"))  # False
+print(can_construct("aa", "ab"))  # False
+print(can_construct("aa", "aab"))  # True

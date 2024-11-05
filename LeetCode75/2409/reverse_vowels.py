@@ -2,6 +2,7 @@
 Function to reverse the vowels in a string
 """
 
+
 def reverse_vowels(s: str) -> str:
     """
     Function to reverse the vowels in a string
@@ -27,10 +28,11 @@ def reverse_vowels(s: str) -> str:
             right -= 1
     return "".join(s)
 
+
 # Time complexity: O(n)
 # Space complexity: O(n)
 # n = length of s
 
 # Example:
-print(reverse_vowels("hello")) # "holle"
-print(reverse_vowels("world")) # "world"
+print(reverse_vowels("hello"))  # "holle"
+print(reverse_vowels("world"))  # "world"

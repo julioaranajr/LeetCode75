@@ -2,6 +2,7 @@
 Funtion to add one to the number represented by the digits array.
 """
 
+
 def plus_one(digits: list[int]) -> list[int]:
     """
     Function to add one to the number represented by the digits array.
@@ -19,6 +20,7 @@ def plus_one(digits: list[int]) -> list[int]:
         if digits[i] != 0:
             return digits
     return [1] + digits
+
 
 # Time complexity: O(n)
 # Space complexity: O(1)

@@ -1,7 +1,9 @@
 """
 Function to find the difference between two strings
 """
+
 from collections import Counter
+
 
 def find_the_difference(s: str, t: str) -> str:
     """
@@ -14,13 +16,14 @@ def find_the_difference(s: str, t: str) -> str:
             return c
     return ""
 
+
 # Time complexity: O(n)
 # Space complexity: O(1)
 # n = len(s) + len(t)
 
 # Test the function
 TEST_S = "abcd"
-print(f'The original string is: {TEST_S}')
+print(f"The original string is: {TEST_S}")
 TEST_T = "abcde"
-print(f'The modified string is: {TEST_T}')
-print(f'The difference is: {find_the_difference(TEST_S, TEST_T)}')  # Output: e
+print(f"The modified string is: {TEST_T}")
+print(f"The difference is: {find_the_difference(TEST_S, TEST_T)}")  # Output: e

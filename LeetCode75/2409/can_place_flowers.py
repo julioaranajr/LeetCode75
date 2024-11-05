@@ -2,6 +2,7 @@
 Function to check if we can place n flowers in the flowerbed
 """
 
+
 def can_place_flowers(flowerbed: list[int], n: int) -> bool:
     """
     Function to check if we can place n flowers in the flowerbed
@@ -22,6 +23,7 @@ def can_place_flowers(flowerbed: list[int], n: int) -> bool:
                     return True
 
     return count >= n
+
 
 # Time complexity: O(n)
 # Space complexity: O(1)
